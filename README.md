@@ -1,2 +1,1 @@
-# Azure-MLOps-CCID-Pipeline
-Azure MLOps CCID Pipeline
+# autompg-azure-mlops-main
